@@ -1,6 +1,5 @@
-function themNguoiDung() {
-  console.log("maithy da lam themNguoiDung");
-}
+function themNguoiDung(){
+  console.log ("maithy2 themNguoiDung");
 
 // In ra ngoài màn hình 
 console.log("Hello FE56")
