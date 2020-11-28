@@ -1,6 +1,5 @@
 function themNguoiDung(){
   console.log ("maithy2 themNguoiDung");
-}
 
 // In ra ngoài màn hình 
 console.log("Hello FE56")
@@ -302,4 +301,3 @@ document.getElementById("btnTinhTienTip").addEventListener("click",function(){
   document.getElementById("txtThongBaoTienTip").className = "alert alert-danger d-block";
 })
 
- 
