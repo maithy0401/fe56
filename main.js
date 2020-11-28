@@ -300,4 +300,4 @@ document.getElementById("btnTinhTienTip").addEventListener("click",function(){
   document.getElementById("txtThongBaoTienTip").innerHTML = tienTip + "$ mỗi người";
   document.getElementById("txtThongBaoTienTip").className = "alert alert-danger d-block";
 })
-
+}
